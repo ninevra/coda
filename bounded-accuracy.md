@@ -39,8 +39,8 @@ This frees the armor defense to be arbitrarily high.
 Similarly, the focus defense is reduced on each character by that character's feedback score, an uncapped amount.
 
 Evasion contains a flat 10, a magic bonus (3), an ability bonus (5), and an equipment bonus (6), but no skill bonus.
-Old Coda equipment system allowed up to 10 equipment bonus to armor and to focus, compared to the 6 for evasion.
-This is 4 points more, or 20% hit chance less (45 - 20 = 25). This figure is considered desirable for playtesting.
+Old Coda equipment system allowed up to 12 equipment bonus to armor and to focus, compared to the 6 for evasion.
+This is 6 points more, or 30% hit chance less (45 - 30 = 15). This figure is considered desirable for playtesting.
 
 All references to the old Coda equipment system thus far have been in exclusion of shield slot items.
 The shield item provides its bonus to armor (up to 3) at all times.
