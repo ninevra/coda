@@ -1,7 +1,7 @@
 # coda
 The d20 system updated for the 2020s.
 
-An algebra-driven, setting-agnostic alternative to mainstream tabletop systems, designed to full creative power in the GM's hands.
+An algebra-driven, setting-agnostic alternative to mainstream tabletop systems, designed to put full creative power in the GM's hands.
 
 No hit points, no skill list, no quadratic wizards.
 
