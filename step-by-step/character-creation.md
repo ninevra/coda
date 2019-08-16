@@ -18,11 +18,11 @@ Assign the six scores you generated to the six ability scores in any order.
 
 	STEP 2: CHOOSE RACE
 
-Determine your starting level budget.
-If the GM has not set a level budget, your level budget is 5.
-Choose any race with an Intelligence of -2 or greater, whose level is less than your level budget.
+Determine your initial number of new levels.
+If the GM does not assign a number, your number of new levels is 5.
+Choose any race with an Intelligence of -2 or greater, whose level is less than your number of new levels.
 
-Reduce your remaining level budget by that race's level.
+Spend a number from your new levels equal to that race's level.
 Modify your ability scores by adding that race's ability scores to yours.
 You gain that race's features.
 
@@ -39,11 +39,13 @@ Apply the bonuses for that age category to your ability scores.
 
 	STEP 4: CHOOSE BACKGROUNDS
 
-Choose a number of character backgrounds no greater than your remaining level budget or the number of backgrounds in your age category's bonus column.
+You will have at least one remaining new level at this time.
+You must spend a new level to choose a background.
+If your age category does not allow a background, you forfeit the new level without spending it.
+You may choose again if you have new levels remaining and your age category allows more backgrounds.
 
-Subtract one from your remaining level budget for each background chosen.
-You gain the equipment and features of those backgrounds.
+You gain the equipment and features of all backgrounds you chose.
 
 	STEP 5: SPEND LEVELS
 
-If your remaining level budget is above zero, spend these levels as outlined in character-advancement.md.
+If you have remaining new levels, spend these new levels as outlined in character-advancement.md.
