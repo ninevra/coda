@@ -42,7 +42,7 @@ Apply the bonuses for that age category to your ability scores.
 Choose a number of character backgrounds no greater than your remaining level budget or the number of backgrounds in your age category's bonus column.
 
 Subtract one from your remaining level budget for each background chosen.
-You gain the equipment and features of your backgrounds.
+You gain the equipment and features of those backgrounds.
 
 	STEP 5: SPEND LEVELS
 
