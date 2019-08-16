@@ -8,19 +8,16 @@ You gain new levels at character creation (5 by default).
 The GM may award new levels at any time after character creation, usually one at a time.
 Traditionally, the receipt of a new level is called "leveling up."
 
-New levels can be "spent" or "forfeited"; more on this later.
+New levels can be "spent" or "forfeited".  The most common way to spend new levels is to gain feats, though other ways exist.  More on this later.
 
 	THE CHARACTER LEVEL
 
 Each character has an integer value called "character level" or simply "level."
 "Your" level is your character's level.
 
-A character's level is equal to the number of new levels they have ever spent.
-If new levels would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
+A character's level is equal to the number of new levels they have ever spent, or the level cap, whichever is lower.  The "level cap" is 24.  If your character level would increase beyond the level cap, it instead does not.  You may continue to spend new levels when your character level is 24, but you cannot acquire feats except through retraining.
 
-The "level cap" is 24.
-Your character level cannot exceed this number. If it would increase, it instead does not.
-You may continue to spend new levels when your character level is 24, but you cannot acquire feats except through retraining.
+If new levels would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
 
 	TRAINING
 
