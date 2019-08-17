@@ -51,6 +51,11 @@ A "feat" is a named set of feats and features. These names are not unique. // TO
 Feats which are granted by other feats will indicate this fact in their description.
 These feats cannot be acquired through training.
 
+A feat's description may list one or more "prerequisites."
+Prerequisites are conditions that must be met before you can gain the feat.
+Any time you retrain or spend a level to gain a feat, you must meet all prerequistes of all your feats.
+// TODO: this prohibits character advancement too often.
+
 Some feats belong to one of three organizational structures: the Class, the Specialization, and the Discipline.
 Names of feats contain an Arabic numeral if and only if they belong to one of these three feat families.
 
