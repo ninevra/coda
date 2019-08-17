@@ -8,7 +8,9 @@ You gain new levels at character creation (5 by default).
 The GM may award new levels at any time after character creation, usually one at a time.
 Traditionally, the receipt of a new level is called "leveling up."
 
-New levels can be "spent" or "forfeited".  The most common way to spend new levels is to gain feats, though other ways exist.  More on this later.
+New levels can be "spent" or "forfeited".  New levels are usually
+spent to gain feats, though other ways of spending them exist.  More
+on this later.
 
 	THE CHARACTER LEVEL
 
