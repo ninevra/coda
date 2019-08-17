@@ -34,8 +34,9 @@ At the end of the training period, you spend any number of new levels and acquir
 Feats may list prerequisites. You must meet all prerequisites for any feat in order to acquire it.
 
 At the end of a training period, you may also "retrain" once.
-Forfeit a feat of your choice, provided that no other feat you have requires you to have it.
+Forfeit a feat of your choice.
 Acquire a new feat of your choice.
+(You must still satisfy all prerequisites of all of your feats after retraining; see below.)
 Training periods for retraining may take significantly more narrative time than ordinary training periods.
 
 	FEATS AND FEATURES
