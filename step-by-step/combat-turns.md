@@ -75,7 +75,7 @@ If an action instructs you to take other actions, you do not pay action points (
 	REACTIONS
 
 Every turn, you receive a reaction point.
-This reaction persists until spent or until replaced with a new reaction point.
+This reaction point persists until spent or until replaced with a new reaction point.
 You cannot have more than one reaction point at a time.
 
 A reaction is a specialized kind of action that you pay for with reaction points instead of action points.
