@@ -8,19 +8,18 @@ You gain new levels at character creation (5 by default).
 The GM may award new levels at any time after character creation, usually one at a time.
 Traditionally, the receipt of a new level is called "leveling up."
 
-New levels can be "spent" or "forfeited"; more on this later.
+New levels can be "spent" or "forfeited".  New levels are usually
+spent to gain feats, though other ways of spending them exist.  More
+on this later.
 
 	THE CHARACTER LEVEL
 
 Each character has an integer value called "character level" or simply "level."
 "Your" level is your character's level.
 
-A character's level is equal to the number of new levels they have ever spent.
-If new levels would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
+A character's level is equal to the number of new levels they have ever spent, or the level cap, whichever is lower.  The "level cap" is 24.  If your character level would increase beyond the level cap, it instead does not.  You may continue to spend new levels when your character level is 24, but you cannot acquire feats except through retraining.
 
-The "level cap" is 24.
-Your character level cannot exceed this number. If it would increase, it instead does not.
-You may continue to spend new levels when your character level is 24, but you cannot acquire feats except through retraining.
+If new levels would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
 
 	TRAINING
 
@@ -35,8 +34,9 @@ At the end of the training period, you spend any number of new levels and acquir
 Feats may list prerequisites. You must meet all prerequisites for any feat in order to acquire it.
 
 At the end of a training period, you may also "retrain" once.
-Forfeit a feat of your choice, provided that no other feat you have requires you to have it.
+Forfeit a feat of your choice.
 Acquire a new feat of your choice.
+(You must still satisfy all prerequisites of all of your feats after retraining; see below.)
 Training periods for retraining may take significantly more narrative time than ordinary training periods.
 
 	FEATS AND FEATURES
@@ -51,6 +51,11 @@ Additional copies of named features in a character's rules text are redundant an
 A "feat" is a named set of feats and features. These names are not unique. // TODO: Pick a hashing algorithm to generate unique IDs for feats.
 Feats which are granted by other feats will indicate this fact in their description.
 These feats cannot be acquired through training.
+
+A feat's description may list one or more "prerequisites."
+Prerequisites are conditions that must be met before you can gain the feat.
+Any time you retrain or spend a level to gain a feat, you must meet all prerequistes of all your feats.
+// TODO: this prohibits character advancement too often.
 
 Some feats belong to one of three organizational structures: the Class, the Specialization, and the Discipline.
 Names of feats contain an Arabic numeral if and only if they belong to one of these three feat families.
