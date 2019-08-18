@@ -18,9 +18,8 @@ Assign the six scores you generated to the six ability scores in any order (see 
 
 	STEP 2: CHOOSE RACE
 
-Determine your initial number of experience tokens.
-If the GM does not assign a number, your number of experience tokens is 5.
-Choose any race with an Intelligence of -2 or greater, whose level is less than your number of experience tokens.
+Determine your initial number of experience tokens. This number is 5 unless the GM says otherwise.
+Choose any race with an Intelligence of -2 or greater whose level is less than your number of experience tokens.
 
 Spend a number from your experience tokens equal to that race's level.
 Modify your ability scores by adding that race's ability scores to yours.
