@@ -41,7 +41,7 @@ When all creatures have had their turn, the round ends.
 
 After the round ends, effects which end "at the end of the round" all end simultaneously.
 
-Effects which occur "at then end of the round" happen next.
+Effects which occur "at the end of the round" trigger next.
 The effects occur in the order that their controllers would act.
 If a combatant created more than one such effect, they choose the order.
 Effects not created by any combatant act last.
