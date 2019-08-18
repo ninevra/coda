@@ -30,7 +30,7 @@ Your character must spend an amount of narrative time practicing a set of abilit
 This amount of time may be just minutes of reading a user's manual or even a single flash of inspiration, or it may be years at a remote monastery, depending on the needs of the narrative.
 It should not be an amount of time that disrupts the progress of gameplay; characters should be ready to resume their adventure when needed.
 
-At the end of the training period, you may spend a level and then gain a feat of your choice, and then repeat this process any number of times.
+At the end of the training period, you may spend a new level and then gain a feat of your choice, and then repeat this process any number of times.
 
 At the end of a training period, you may also "retrain" once.
 Forfeit a feat of your choice.
@@ -53,11 +53,11 @@ These feats cannot be acquired through training.
 
 A feat's description may list one or more "prerequisites."
 Prerequisites are conditions that must be met in order to gain the feat.
-Any time you retrain or spend a level to gain a feat, you must meet all prerequistes of all your feats, both before and after.
+Any time you retrain or spend a new level to gain a feat, you must meet all prerequistes of all your feats, both before and after.
 // TODO: this prohibits character advancement too often.
 For example, to gain a feat with "Prerequisite: Character level 6," your character level must be at least 6.
-(Note that, since levels are spent before feats are gained, a level 5 character may train and spend a level to gain such a feat.
-They spend a level, bringing their character level to 6, and then gain the feat.)
+(Note that, since levels are spent before feats are gained, a level 5 character may train and spend a new level to gain such a feat.
+They spend a new level, bringing their character level to 6, and then gain the feat.)
 
 Some feats belong to one of three organizational structures: the Class, the Specialization, and the Discipline.
 A feat's description will note its membership in a class, specialization, or discipline, along with a number, called its "level," that describes its position in the structure.
