@@ -1,10 +1,10 @@
 	ABILITY MODIFIERS
 
 The six ability scores, as handed down by ancient tradition, are Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma.
-These are traditionally abbreviated Str, Con, Dex, Int, Wis, and Cha, respectively.
-In these rules, the full names of abilities refer to the corresponding ability score, while the abbreviated form always refers to the ability modifier.
+These are conventionally abbreviated Str, Con, Dex, Int, Wis, and Cha, respectively.
+The full names of abilities refer to the corresponding ability score, while the abbreviated form always refers to the ability modifier.
 
-The ability modifier is a function of the ability score, of the form:
+An ability modifier is a function of an ability score, of the form:
 
 > $modifier = floor ( max ( $score , 0 ) / 2 ) - 5 .
 
