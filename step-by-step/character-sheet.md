@@ -44,15 +44,29 @@ The maximum weight you can move is 5 * $carry.
 
 Your race determines your initial size category, though effects may modify it temporarily or permanently.
 
-Your size category determines your space, reach, unarmed damage, injury tolerance, and natural evasion.
+Your size category determines your space, unarmed damage, injury tolerance, and natural evasion.
 The values per size category are given as follows:
 
-	SIZE		SPACE	REACH	DAMAGE	INJURY	EVASION
-	Tiny		2.5ft		1	0	Min 4
-	Small		5ft		1	1	-
-	Medium		5ft		1	1	-
-	Large		10ft		1	2	-
-	Huge		15ft		2	3	Max 2
-	Gargantuan	20ft*		2	4	Max 0
+	SIZE		SPACE	DAMAGE	INJURY	EVASION
+	Tiny		2.5ft	1	0	Min 4
+	Small		5ft	1	1	-
+	Medium		5ft	1	1	-
+	Large		10ft	1	2	Max 4
+	Huge		15ft	2	3	Max 2
+	Gargantuan	20ft*	2	4	Max 0
 
 	*or more
+
+Space is the measure of the side of the smallest square a creature can stand in comfortably.
+A creature's "reach" is the maximum number of feet that can be between it and another creature for it to strike that creature with a weapon or unarmed strike.
+A creature's reach is equal to its space unless an effect says otherwise.
+
+Unarmed damage is the number of injuries a creature inflicts with an attack.
+Some weapons or effects may modify this number, but many weapons do not.
+
+The injury tolerance of a creature is the most injuries it can have marked on it without gaining the dying condition.
+Exceeding a creature's injury tolerance by two or more kills that creature immediately.
+
+Natural evasion is a limit to the equipment bonus a creature can receive to their evasion defense.
+Gargantuan creatures receive no equipment bonus to their evasion defense, regardless of what they wear.
+Tiny creatures with subpar or no equipment still receive a minimum of +4 evasion, due to their small size.
