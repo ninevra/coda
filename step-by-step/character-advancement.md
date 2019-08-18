@@ -60,47 +60,43 @@ For example, to gain a feat with "Prerequisite: Character level 6," your charact
 They spend a level, bringing their character level to 6, and then gain the feat.)
 
 Some feats belong to one of three organizational structures: the Class, the Specialization, and the Discipline.
-Names of feats contain an Arabic numeral if and only if they belong to one of these three feat families.
+A feat's description will note its membership in a class, specialization, or discipline, along with a number, called its "level," that describes its position in the structure.
+For example, "Arcane Ward" might be an "Abjurer 3" feat, indicating that it belongs to the Abjurer specialization at level 3.
 
 	CLASSES
 
-A feat belongs to a class if and only if its name includes a dash ( - ) before the number.
-The class contains all feats whose names have the same text before the dash (e.g. "Ranger").
 Class feats are also called "class levels" for legacy reasons.
 
 A class feat has two implicit prerequisites, not noted in the prerequisites section of the feat:
-	spending a new level to acquire the feat must make your character level equal to or greater than the feat's number;
-	you must already have every feat in the class that has a lower number.
+ * character level of at least the feat's level
+ * possession of every lower-level feat in the class
 
 // Example
-// If you are level 7 and training, you may take Rogue - 8 if you have Rogue - 6 (the next lowest Rogue level).
-// If you are level 6 and training, your level is too low to take Rogue - 8 even if you have Rogue - 6.
+// If you are level 7 and training, you may take Rogue 8 if you have Rogue 6 (the next lowest Rogue class level).
+// If you are level 6 and training, your level is too low to take Rogue 8 even if you have Rogue 6.
 // If you are level 6 and spend two new levels while training, remember that these levels are spent one at a time.
-// This means that after you spend the first new level, you will be character level 7 and thus eligible to use the second new level acquiring Rogue - 8.
-// This means that you can acquire Rogue - 6 and Rogue - 8 in the same training session if you spend multiple new levels.
+// This means that after you spend the first new level, you will be character level 7 and thus eligible to use the second new level acquiring Rogue 8.
+// This means that you can acquire Rogue 6 and Rogue 8 in the same training session if you spend multiple new levels.
 
 	SPECIALIZATIONS
 
-A feat belongs to a specialization if and only if its name includes a closing angle bracket ( > ) before the number.
-The specialization contains all feats whose names have the same text before the dash (e.g. "Abjurer").
 Specialization feats are also called "subclass levels," "prestige levels," and "prestige class levels" for legacy reasons.
 
-A specialization feat has two implicit prerequisites, not noted in the prerequisites section of the feat:
-	spending a new level to acquire the feat must make your character level equal to or greater than the feat's number;
-	you must already have every feat in the specialization that has a lower number.
+A specialization feat has three implicit prerequisites, not noted in the prerequisites section of the feat:
+ * character level of at least the feat's level
+ * you must already have every lower-level feat in the specialization. // TODO fix this, it's just wrong
+ * you must not have any other feat from the same specialization with the same level.
 
-You cannot take a specialization feat with a name that is the same as any specialization feat you have.
+// TODO add example
 
 	DISCIPLINES
 
-A feat belongs to a discipline if and only if its name puts parentheses ( () ) around the number.
-The discipline contains all feats whose names have the same text before the parentheses (e.g. "Athletics").
-
 A discipline feat has two implicit prerequisites, not noted in the prerequisites section of the feat:
-	spending a new level to acquire the feat must make your character level equal to or greater than the feat's number;
-	acquiring the feat cannot result in you having more feats from this discipline of this number than of any single number less than it.
+ * character level of at least the feat's level
+ * acquiring the feat cannot result in you having more feats from this discipline of this level than of any single number less than it. // TODO fix this, it's got holes in
+// TODO possibly rename "prerequisite" to "requirement" and then change the second implicit discipline prerequisite to "at least as many lower-indexed feats from this 
 
 // Example
-// If you have Athletics (2), Athletics (2), and Athletics (4), you can take Athletics (2), (4), or (6).
-// You cannot take (4) twice, as this would result in you having three Athletics (4) feats, which is more than your number of Athletics (2) feats.
-// If you wanted a third Athletics (4) feat, you would have to take a third Athletics (2) feat first.
+// If you have two Athletics 2 feats and an Athletics 4 feat, you can train to take a new Athletics feat at levels 2, 4, or 6.
+// You cannot take two Athletics 4 feats, as this would result in you having three Athletics 4 feats, which is more than your number of Athletics 2 feats.
+// If you wanted a third Athletics 4 feat, you would have to take a third Athletics 2 feat first.
