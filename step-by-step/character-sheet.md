@@ -1,4 +1,4 @@
-	ABILITY MODIFIERS
+##### ABILITY SCORES
 
 The six ability scores, as handed down by ancient tradition, are Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma.
 These are conventionally abbreviated Str, Con, Dex, Int, Wis, and Cha, respectively.
@@ -8,7 +8,7 @@ An ability modifier is a function of an ability score, of the form:
 
 > $modifier = floor ( max ( $score , 0 ) / 2 ) - 5 .
 
-	LIMBS
+##### LIMBS
 
 Your race determines your starting number of legs and arms, though effects may modify these numbers temporarily or permanently.
 
@@ -19,28 +19,7 @@ As such, if your number of legs ever exceeds the number of legs your race has by
 
 In effect, $legs = min ( $initialLegs , $currentLegs ) .
 
-	WEIGHT LIMITS
-
-Weight is measured in nameless "units."
-These units are an aggregate score approximating bulk, mass, and other factors that make moving an object difficult.
-These units are constant in all environments, atmospheric or gravitational changes notwithstanding.
-
-Items in your item slots are considered to be "worn."
-Items you wear that are not described in your item slots, like your basic clothing, are considered to be weightless for convenience.
-
-You can wear up to 3 * Strength units without penalty.
-Wearing weight beyond this amount inflicts the encumbered condition.
-
-The weight of items you wear also counts towards the total amount of weight you carry.
-Carrying over your carry limit also causes encumbrance.
-Your carry limit is a function of your strength, number of legs, and unarmed damage, of the form:
-
-> $carry = 10 * $strength * max ( 1 , $damage ) * max ( 1 , min ( $legs , 6 ) )
-
-You can haul items behind you, as on a sledge, or push things forward, as punting a boat.
-The maximum weight you can move is 5 * $carry.
-
-	SIZE CATEGORY
+##### SIZE CATEGORY
 
 Your race determines your initial size category, though effects may modify it temporarily or permanently.
 
@@ -70,3 +49,28 @@ Exceeding a creature's injury tolerance by two or more kills that creature immed
 Natural evasion is a limit to the equipment bonus a creature can receive to their evasion defense.
 Gargantuan creatures receive no equipment bonus to their evasion defense, regardless of what they wear.
 Tiny creatures with subpar or no equipment still receive a minimum of +4 evasion, due to their small size.
+
+##### WEIGHT LIMITS
+
+Weight is measured in nameless "units."
+These units are an aggregate score approximating bulk, mass, and other factors that make moving an object difficult.
+These units are constant in all environments, atmospheric or gravitational changes notwithstanding.
+
+Items in your item slots are considered to be "worn."
+Items you wear that are not described in your item slots, like your basic clothing, are considered to be weightless for convenience.
+
+You can wear up to 3 * Strength units without penalty.
+Wearing weight beyond this amount inflicts the encumbered condition.
+
+The weight of items you wear also counts towards the total amount of weight you carry.
+Carrying over your carry limit also causes encumbrance.
+Your carry limit is a function of your strength, number of legs, and unarmed damage, of the form:
+
+> $carry = 10 * $strength * max ( 1 , $damage ) * max ( 1 , min ( $legs , 6 ) )
+
+You can haul items behind you, as on a sledge, or push things forward, as punting a boat.
+The maximum weight you can move is 5 * $carry.
+
+##### SPEED
+
+

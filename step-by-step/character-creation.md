@@ -14,12 +14,12 @@ The total costs you note in this way cannot exceed 27.
 	14	7
 	15	9
 
-Assign the six scores you generated to the six ability scores in any order (see character-sheet.md).
+Assign the six scores you generated to the six ability scores in any order (see **character-sheet.md**).
 
 ##### STEP 2: CHOOSE RACE
 
 Determine your initial number of experience tokens. This number is 5 unless the GM says otherwise.
-Choose any race with an Intelligence of -2 or greater whose level is less than your number of experience tokens.
+Choose any race with an Intelligence score of -2 or greater whose level is less than your number of experience tokens.
 
 Spend a number from your experience tokens equal to that race's level.
 Modify your ability scores by adding that race's ability scores to yours.
@@ -48,4 +48,4 @@ You gain the equipment and features of all backgrounds you chose.
 
 ##### STEP 5: SPEND LEVELS
 
-If you have remaining experience tokens, spend them as outlined in character-advancement.md, skipping training time.
+If you have remaining experience tokens, spend them as outlined in **character-advancement.md**, skipping training time.
