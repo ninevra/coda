@@ -1,14 +1,14 @@
-	THE NEW LEVEL
+	THE EXPERIENCE TOKEN
 
-The "new level" or "newlevel" is the currency of character advancement.
-New levels are associated with a character and are not transferable.
-"You" are the character in possession of the new levels.
+The "experience token" is the currency of character advancement.
+Experience tokens are associated with a character and are not transferable.
+"You" in this section refers to the character in possession of the experience tokens.
 
-You gain new levels at character creation (5 by default).
-The GM may award new levels at any time after character creation, usually one at a time.
-Traditionally, the receipt of a new level is called "leveling up."
+You gain experience tokens at character creation (5 by default).
+The GM may award experience tokens at any time after character creation, usually one at a time.
+Traditionally, the receipt of an experience token is called "leveling up."
 
-New levels can be "spent" or "forfeited".  New levels are usually
+Experience tokens can be "spent" or "forfeited".  Experience tokens are usually
 spent to gain feats, though other ways of spending them exist.  More
 on this later.
 
@@ -17,20 +17,20 @@ on this later.
 Each character has an integer value called "character level" or simply "level."
 "Your" level is your character's level.
 
-A character's level is equal to the number of new levels they have ever spent, or the level cap, whichever is lower.  The "level cap" is 24.  If your character level would increase beyond the level cap, it instead does not.  You may continue to spend new levels when your character level is 24, but you cannot acquire feats except through retraining.
+A character's level is equal to the number of experience tokens they have ever spent, or the level cap, whichever is lower.  The "level cap" is 24.  If your character level would increase beyond the level cap, it instead does not.  You may continue to spend experience tokens when your character level is 24, but you cannot acquire feats except through retraining.
 
-If new levels would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
+If experience tokens would be spent simultaneously (such as when choosing a high-level race during character creation), instead they are spent one at a time. // Like drawing cards in Magic: the Gathering.
 
 	TRAINING
 
-Rules may tell you to spend new levels to complete a task, most likely during character creation.
-Outside of these special events, you may only voluntarily spend new levels through "training."
+Rules may tell you to spend experience tokens to complete a task, most likely during character creation.
+Outside of these special events, you may only voluntarily spend experience tokens through "training."
 
 Your character must spend an amount of narrative time practicing a set of abilities they wish to acquire.
 This amount of time may be just minutes of reading a user's manual or even a single flash of inspiration, or it may be years at a remote monastery, depending on the needs of the narrative.
 It should not be an amount of time that disrupts the progress of gameplay; characters should be ready to resume their adventure when needed.
 
-At the end of the training period, you may spend a new level and then gain a feat of your choice, and then repeat this process any number of times.
+At the end of the training period, you may spend an experience token and then gain a feat of your choice, and then repeat this process any number of times.
 
 At the end of a training period, you may also "retrain" once.
 Forfeit a feat of your choice.
@@ -53,11 +53,11 @@ These feats cannot be acquired through training.
 
 A feat's description may list one or more "prerequisites."
 Prerequisites are conditions that must be met in order to gain the feat.
-Any time you retrain or spend a new level to gain a feat, you must meet all prerequistes of all your feats, both before and after.
+Any time you retrain or spend an experience token to gain a feat, you must meet all prerequistes of all your feats, both before and after.
 // TODO: this prohibits character advancement too often.
 For example, to gain a feat with "Prerequisite: Character level 6," your character level must be at least 6.
-(Note that, since levels are spent before feats are gained, a level 5 character may train and spend a new level to gain such a feat.
-They spend a new level, bringing their character level to 6, and then gain the feat.)
+(Note that, since experience tokens are spent before feats are gained, a level 5 character may train and spend an experience token to gain such a feat.
+They spend an experience token, bringing their character level to 6, and then gain the feat.)
 
 Some feats belong to one of three organizational structures: the Class, the Specialization, and the Discipline.
 A feat's description will note its membership in a class, specialization, or discipline, along with a number, called its "level," that describes its position in the structure.
@@ -74,9 +74,9 @@ A class feat has two implicit prerequisites, not noted in the prerequisites sect
 // Example
 // If you are level 7 and training, you may take Rogue 8 if you have Rogue 6 (the next lowest Rogue class level).
 // If you are level 6 and training, your level is too low to take Rogue 8 even if you have Rogue 6.
-// If you are level 6 and spend two new levels while training, remember that these levels are spent one at a time.
-// This means that after you spend the first new level, you will be character level 7 and thus eligible to use the second new level acquiring Rogue 8.
-// This means that you can acquire Rogue 6 and Rogue 8 in the same training session if you spend multiple new levels.
+// If you are level 6 and spend two experience tokens while training, remember that these tokens are spent one at a time.
+// This means that after you spend the first experience token, you will be character level 7 and thus eligible to use the second token acquiring Rogue 8.
+// This means that you can acquire Rogue 6 and Rogue 8 in the same training session if you spend multiple experience tokens.
 
 	SPECIALIZATIONS
 
